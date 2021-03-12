@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetOtt</string>
+    <string name="roll_btn">Roll</string>
+    <string name="many_text">How many?</string>
+</resources>
